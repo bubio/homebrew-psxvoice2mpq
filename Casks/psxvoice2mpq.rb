@@ -2,8 +2,7 @@ cask "psxvoice2mpq" do
     version "1.4"
     sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
 
-    url "https://github.com/bubio/PSXVoice2MPQ/releases/download/v#{version}/PSXVoice2MPQ-macOS-univers
-  al.dmg"
+    url "https://github.com/bubio/PSXVoice2MPQ/releases/download/v#{version}/PSXVoice2MPQ-macOS-universal.dmg"
     name "PSXVoice2MPQ"
     desc "Convert PlayStation 1 voice files to MPQ format for Diablo mods"
     homepage "https://github.com/bubio/PSXVoice2MPQ"
