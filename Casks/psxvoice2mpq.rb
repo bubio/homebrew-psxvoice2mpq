@@ -1,10 +1,10 @@
 cask "psxvoice2mpq" do
-  version "0.0.0"
-  sha256 :no_check
+  version "1.0.0"
+  sha256 "f500087506c87379910ef9ba32a2387969866c17ac4bb30e82f9c1324f3a2a07"
 
-  url "https://github.com/bubio/PSXVoice2MPQ/releases/download/v#{version}/PSXVoice2MPQ-macOS.dmg"
+  url "https://github.com/bubio/PSXVoice2MPQ/releases/download/v#{version}/PSXVoice2MPQ-macOS-universal.dmg"
   name "PSXVoice2MPQ"
-  desc "Convert PlayStation 1 voice files to MPQ format for DevilutionX"
+  desc "Convert PlayStation 1 voice files to MPQ format for Diablo mods"
   homepage "https://github.com/bubio/PSXVoice2MPQ"
 
   livecheck do
