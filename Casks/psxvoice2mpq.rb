@@ -1,6 +1,6 @@
 cask "psxvoice2mpq" do
   version "1.0.2"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "0144a9a2538f8f2060bb69956f51a46eb94c4fa94955a26115cb821ef787df9d"
 
   url "https://github.com/bubio/PSXVoice2MPQ/releases/download/v#{version}/PSXVoice2MPQ-macOS-universal.dmg"
   name "PSXVoice2MPQ"
